@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Camilleus
-- 👀 I’m interested in Medicine, History, Conspiracy Theories, Foreign Living Languagues (especially English and French) & Construction Technology 
+- 👀 I’m interested in AI, Medicine, History, Conspiracy Theories, Foreign Living Languagues (especially English and French) & Construction Technology 
 - 🌱 I’m currently learning Python and Deutsche Sprache
 - 💞️ I’m looking to collaborate on learning Python :D
 - 📫 How to reach me: Camilleusrex@gmail.com
