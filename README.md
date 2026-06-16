@@ -15,4 +15,4 @@
 🌍 Based in Bergen, Norway. Building for the Polish market.
 
 📫 Camilleus@proton.me
-🔗 [veles](https://velesdigital.pl)
+🔗 [Veles Digital](https://velesdigital.pl)
