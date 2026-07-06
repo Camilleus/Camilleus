@@ -4,7 +4,7 @@
 
 🚀 Currently shipping:
 - Veles Academy — PRINCE2/PMP exam prep SaaS (live)
-- Domovoy Desk — property maintenance management (MVP)
+- Cavor Desk — property maintenance management (MVP)
 - Veles Digital — web products and automation for businesses
 
 🛠️ Stack: Next.js · Supabase · TypeScript · Tailwind · Stripe
