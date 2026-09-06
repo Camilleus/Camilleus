@@ -12,7 +12,7 @@
 🤖 I coordinate multi-agent AI workflows (Claude Code, Jules, Gemini) 
    to build production-grade products solo.
 
-🌍 Based in Bergen, Norway. Building for the European market.
+🌍 Based in Maxovia, Poland. Building for the European market.
 
 📫 Camilleus@proton.me 
 📫 velesdigital@proton.me
